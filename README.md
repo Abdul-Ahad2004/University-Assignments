@@ -9,6 +9,7 @@ The repository is structured into folders representing each semester:
 - **Semester 1:** Programming Fundamentals
 - **Semester 2:** Programming Fundamentals and Object Oriented Programming
 - **Semester 3:** Programming Fundamentals and Data Structures
+- **Semester 4:** Database Systems
 
 Within each semester folder, you'll find:
 
@@ -26,3 +27,6 @@ Within each semester folder, you'll find:
 - **Semester 3:**
     - Data structures (arrays, lists, stacks, queues, trees)
     - Algorithm efficiency and analysis
+  - **Semester 4:**
+    - Database design and normalization (Entity-Relationship (ER) modeling, normal forms, and schema refinement)
+    -SQL and database programming (Complex queries, stored procedures, and transaction management)
