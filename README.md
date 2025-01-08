@@ -10,6 +10,7 @@ The repository is structured into folders representing each semester:
 - **Semester 2:** Programming Fundamentals and Object Oriented Programming
 - **Semester 3:** Programming Fundamentals and Data Structures
 - **Semester 4:** Database Systems
+- **Semester 5:** Operating Systems and Software Construction and Development
 
 Within each semester folder, you'll find:
 
