@@ -1,0 +1,11 @@
+{
+    "Search Algorithm": "BFS",
+    "Solution Path": [
+        6,
+        5
+    ],
+    "Nodes Explored": 56,
+    "Time Taken": 0.5913999080657959,
+    "Moves Needed": 2,
+    "Depth Reached": 2
+}
