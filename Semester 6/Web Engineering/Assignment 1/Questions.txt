@@ -1,0 +1,28 @@
+Q2: Write a function processArray(arr, callback) that takes an array of numbers
+and a callback function. The callback should either:
+● Double the values if callback is double
+● Find the square if callback is square
+For example:
+const numbers=[10,5,8,2,6]
+processArray(arr, double)
+Output: [20,10,16,4,12]
+Q3: Given the array:
+const students = [
+{ name: "Ali", age: 22, marks: 85 },
+{ name: "Ayesha", age: 20, marks: 92 },
+{ name: "Bilal", age: 23, marks: 78 },
+{ name: "Ibrahim", age: 22, marks: 76 },
+{name: "Usama", age: 21, marks :80}
+];
+Write functions to:
+1. Sort students by marks in descending order.
+2. Return student names with marks greater than 80.
+3. Return students older than 21.
+Q4: Given the following HTML:
+
+<input type="text" id="nameInput" placeholder="Enter name">
+<button id="addButton">Add Name</button>
+<ul id="nameList"></ul>
+Write JavaScript that:
+● Adds the entered name to the list (<ul>) when the button is clicked.
+● Prevents empty inputs from being added.

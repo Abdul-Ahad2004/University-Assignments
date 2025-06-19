@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body>
+    <input type="text" id="nameInput" placeholder="Enter name" />
+    <button id="addButton">Add Name</button>
+    <ul id="nameList"></ul>
+    <script>
+        document.getElementById("addButton").addEventListener("click", function () {
+          const nameInput = document.getElementById("nameInput");
+          const nameList = document.getElementById("nameList");
+    
+          const name = nameInput.value.trim(); 
+    
+          if (name === "") {
+            alert("Please enter a valid name!"); 
+            return;
+          }
+    
+          const listItem = document.createElement("li");
+          listItem.textContent = name;
+    
+          nameList.appendChild(listItem); 
+    
+          nameInput.value = ""; 
+        });
+      </script>
+  </body>
+</html>
