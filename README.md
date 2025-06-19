@@ -11,6 +11,7 @@ The repository is structured into folders representing each semester:
 - **Semester 3:** Programming Fundamentals and Data Structures
 - **Semester 4:** Database Systems
 - **Semester 5:** Operating Systems and Software Construction and Development
+- **Semester 6:** Applied Artificial Intelligence and Web Engineering
 
 Within each semester folder, you'll find:
 
@@ -32,11 +33,3 @@ Within each semester folder, you'll find:
 - **Semester 4:**
     - Database design and normalization (Entity-Relationship (ER) modeling, normal forms, and schema refinement)
     - SQL and database programming (Complex queries, stored procedures, and transaction management)
-
- - **Semester 5:**
-    -Operating System
-    - Software Construction and Development
-
-- **Semester 6:**
-    - Applied Artificial Intelligence
-    - Web Engineering
